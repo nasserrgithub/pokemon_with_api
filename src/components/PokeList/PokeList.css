@@ -1,0 +1,13 @@
+.pokelist2 {
+	border: 2px solid maroon;
+	border-radius: 5px;
+	padding: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	transition: 1s;
+}
+
+.pokelist2:hover {
+	transform: scale(1.1);
+	background-color: maroon;
+}

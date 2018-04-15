@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.test {
+	margin: 0 auto;
+}
+
+@font-face {
+	font-family: 'Pokemon Hollow';
+	src: url(PokemonHollow.ttf);
+}
+
+@font-face {
+	font-family: 'Pokemon Solid';
+	src: url(PokemonSolid.ttf);
+}
